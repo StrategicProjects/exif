@@ -16,4 +16,4 @@ LazyData: true
 URL: https://github.com/StrategicProjects/exif
 BugReports: https://github.com/StrategicProjects/exif/issues
 Note:
-    This package makes use of the easyexif source code. The easyexif tool was created by Andy Maloney (https://github.com/mayanklahiri/easyexif). 
+    This package makes use of the easyexif source code. The easyexif tool was created by Mayank Lahiri (https://github.com/mayanklahiri/easyexif). 

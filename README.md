@@ -12,4 +12,4 @@ This package allows for the extraction of EXIF metadata from JPEG images using t
 
 ### Credits
 
-This package makes use of the easyexif source code. The easyexif tool was created by Andy Maloney: https://github.com/mayanklahiri/easyexif.
+This package makes use of the easyexif source code. The easyexif tool was created by Mayank Lahiri: https://github.com/mayanklahiri/easyexif.
