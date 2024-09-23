@@ -8,3 +8,8 @@ This package allows for the extraction of EXIF metadata from JPEG images using t
 *	**Multiple Image Support:** Analyze one or multiple images at once.
 *	**Flexible Output Formats:** Returns data in either a list or a dataframe format.
 *	**No External Dependencies:** No external tools required other than Rcpp and the included easyexif library.
+
+
+### Credits
+
+This package makes use of the easyexif source code. The easyexif tool was created by Andy Maloney: https://github.com/mayanklahiri/easyexif.
