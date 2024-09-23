@@ -4,7 +4,7 @@ This package allows for the extraction of EXIF metadata from JPEG images using t
 
 ### Features
 
-*	Efficient EXIF Extraction: Extract EXIF metadata from JPEG images efficiently using C++ and Rcpp.
-*	Multiple Image Support: Analyze one or multiple images at once.
-*	Flexible Output Formats: Returns data in either a list or a dataframe format.
-*	No External Dependencies: No external tools required other than Rcpp and the included easyexif library.
+*	**Efficient EXIF Extraction:** Extract EXIF metadata from JPEG images efficiently using C++ and Rcpp.
+*	**Multiple Image Support:** Analyze one or multiple images at once.
+*	**Flexible Output Formats:** Returns data in either a list or a dataframe format.
+*	**No External Dependencies:** No external tools required other than Rcpp and the included easyexif library.
