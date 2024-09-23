@@ -1,0 +1,19 @@
+Package: exif
+Type: Package
+Title: Extract EXIF Metadata from JPEG Images
+Version: 1.0
+Date: 2024-09-23
+Authors@R: c(
+            person("Andre", "Leite", email = "leite@castlab.org", role = c("aut", "cre")),
+            person("Hugo", "Vaconcelos", email = "hugo.vasconcelos@ufpe.br", role = "aut"))
+Description: This package allows for the extraction of EXIF metadata from JPEG images using the easyexif library via Rcpp. The main function, read_exif, enables users to analyze one or multiple images and obtain the EXIF metadata in list format. An advantage of this package is that it does not require any other tools to be installed on the system.
+License: GPL-3
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+LazyData: true
+URL: https://github.com/StrategicProjects/exif
+BugReports: https://github.com/StrategicProjects/exif/issues
+Note:
+    This package makes use of the easyexif source code. The easyexif tool was created by Andy Maloney (https://github.com/milkway/easyexif). 
